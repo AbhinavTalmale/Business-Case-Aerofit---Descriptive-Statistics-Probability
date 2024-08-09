@@ -1,6 +1,11 @@
 # Business Case: Aerofit Descriptive Statistics Probability
 
-## About Aerofit
+### Insights:
+- Analyzed AeroFit's treadmill purchase dataset using Python libraries to reveal insights for targeted marketing; identified customer preferences and income demographics.
+- Determined that KP781 buyers have a median income of $80K, while KP281 and KP481 buyers' median income averages around $50K.
+- Highlighted that higher-educated customers prefer KP781, while those with lower education levels show a preference for KP281 and KP481 treadmills.
+
+### About Aerofit
 
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
