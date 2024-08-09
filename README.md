@@ -10,7 +10,7 @@ The market research team at AeroFit wants to identify the characteristics of the
 1.  Perform descriptive analytics  **to create a customer profile**  for each AeroFit treadmill product by developing appropriate tables and charts.
 2.  For each AeroFit treadmill product, construct  **two-way contingency tables**  and compute all  **conditional and marginal probabilities**  along with their insights/impact on the business.
 
-### Dataset
+### [Dataset](https://github.com/AbhinavTalmale/Business-Case-Aerofit---Descriptive-Statistics-Probability/tree/main/Dataset)
 
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during the prior three months. The dataset has the following features:
 
